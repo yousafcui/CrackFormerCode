@@ -6,7 +6,7 @@ CrackFormer is an advanced deep learning framework for automatic pavement crack 
 
 ---
 
-## 📂 Datasets
+## Datasets
 
 The following datasets are automatically downloaded using the Kaggle API:
 
@@ -20,9 +20,9 @@ These will be downloaded automatically during the first run.
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
-### ✅ Dependencies
+### Dependencies
 
 Install Python packages:
 
